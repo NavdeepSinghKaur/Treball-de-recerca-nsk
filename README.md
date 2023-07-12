@@ -20,7 +20,7 @@
   3. Programar un model senzill d'I.A amb Python sense utilitzar llibreries (2n de 4 models) 🚧.
 </p>
 <p>
-  Començar a programar un model d'I.A complex (3r de 4 models) 🚧.
+  4. Començar a programar un model d'I.A complex (3r de 4 models) 🚧.
 </p>
 <h3>
   Si acabo tots els objectius abans del 25/07 posaré els restants. En total faré 4 models d'I.A.
