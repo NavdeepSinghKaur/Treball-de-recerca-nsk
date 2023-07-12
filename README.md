@@ -11,7 +11,7 @@
 </h2>
 
 <p>
-  1. Programar un model de xarxa neuronal/I.A amb Python utilitzant llibreries que facilitin el procès ✅.
+  1. Programar un model senzill de xarxa neuronal/I.A amb Python utilitzant llibreries que facilitin el procès ✅.
 </p>
 <p>
   2. Entendre com funciona matemàticament l'I.A 🚧.
