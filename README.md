@@ -17,11 +17,9 @@
   2. Entendre com funciona matemàticament l'I.A 🚧.
 </p>
 <p>
-  3. Programar un model de xarxa neuronal/I.A amb Python sense utilitzar llibreries 🚧.
+  3. Programar un model senzill de xarxa neuronal/I.A amb Python sense utilitzar llibreries 🚧.
 </p>
-<p>
-  4. Pujar tots els arxius relacionats amb el TDR en aquest repositori 🚧.
-</p>
+
 <h3>
   Si acabo tots els objectius abans del 25/07 posaré els restants.
 </h3>
