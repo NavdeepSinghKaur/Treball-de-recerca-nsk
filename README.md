@@ -1,10 +1,4 @@
 # Treball de recerca Navdeep Singh.
-<style>
-  #text{
-    text-align: center;
-    
-  }
-</style>
 
 <hr>
 <h2>
@@ -14,7 +8,7 @@
 <h2>
   Què faré al juliol?
 </h2>
-<div id='text'>
+<div>
 <p>
   1. Programar un model de xarxa neuronal/I.A amb Python utilitzant llibreries que facilitin el procès ✅.
 </p>
