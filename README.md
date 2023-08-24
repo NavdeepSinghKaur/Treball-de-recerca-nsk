@@ -7,7 +7,7 @@
   Link al google docs del TDR: https://docs.google.com/document/d/1Esikz4OHqwqi1gJzk8PqN4XDOziS6vQ-k3IA4WAkmN8/edit?usp=sharin
 </p>
 <h2>
-  Què faré al juliol?
+  Què faré a l'agost?
 </h2>
 
 <p>
