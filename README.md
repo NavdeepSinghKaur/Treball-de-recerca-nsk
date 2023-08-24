@@ -11,17 +11,11 @@
 </h2>
 
 <p>
-  1. Programar un model senzill d'I.A amb Python utilitzant llibreries que facilitin el procès (1r de 4 models) ✅.
+  1.Entendre com funciona matemàticament l'I.A 🚧.
 </p>
 <p>
-  2. Entendre com funciona matemàticament l'I.A 🚧.
+  2. Programar un model senzill d'I.A amb Python sense utilitzar llibreries (2n de 4 models) 🚧.
 </p>
 <p>
-  3. Programar un model senzill d'I.A amb Python sense utilitzar llibreries (2n de 4 models) 🚧.
+  3. Començar a programar un model d'I.A complex (3r de 4 models) 🚧.
 </p>
-<p>
-  4. Començar a programar un model d'I.A complex (3r de 4 models) 🚧.
-</p>
-<h3>
-  Si acabo tots els objectius abans del 25/07 posaré els restants. En total faré 4 models d'I.A.
-</h3>
